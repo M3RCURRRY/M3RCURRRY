@@ -25,6 +25,11 @@
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 </div>
 
+### My stats
+<div>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=M3RCURRRY&show_icons=true&theme=radical" />
+    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=M3RCURRRY&theme=radical&layout=compact" />
+</div>
 <!--
 **M3RCURRRY/M3RCURRRY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
