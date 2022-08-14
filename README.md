@@ -1,8 +1,8 @@
 ### About me
-<b> Alexander </b>
-<b> 22 y.o. </b>
-<b> Moscow, Russia </b>
-<b> MIEM HSE Student</b>
+<b> Alexander </b><br>
+<b> 22 y.o. </b><br>
+<b> Moscow, Russia </b><br>
+<b> MIEM HSE Student</b><br>
 
 ### Feel free to contact me 💬
 
