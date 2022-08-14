@@ -1,3 +1,9 @@
+### About me
+<b> Alexander </b>
+<b> 22 y.o. </b>
+<b> Moscow, Russia </b>
+<b> MIEM HSE Student</b>
+
 ### Feel free to contact me 💬
 
 <a target="_blank" href="https://mail.google.com/mail/?view=cm&source=mailto&to=m3rcurrry1337@gmail.com">
